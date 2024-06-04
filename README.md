@@ -1,3 +1,3 @@
-# robotic-fractionator
+# autoSIP - Automated fractionator for application in stable isotope probing
 
-For summer 2023 research project in Purdue's Managed Ecosystem Microbial Ecology Lab
+Software written by Mihir Laud (2023 - 2024) as part of a research project in Purdue University's Managed Ecosystem Microbial Ecology Lab, managed by Dr. Roli Wilhelm.
